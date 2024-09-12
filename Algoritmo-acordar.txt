@@ -1,0 +1,27 @@
+1 - Abro os olhos
+2 - Fico sentado na cama
+3 - Coloco o chinelo
+4 - Fico em pé
+5 - Vou até a porta
+6 - Giro a maçaneta no sentido horário 90*
+7 - Vou até o banheiro
+8 - Se não houver ninguém no banheiro:
+    1 - Empurro a porta até encostar na parede
+    2 - Entro no banheiro
+    3 - Fecho a porta
+    4 - Tranco a porta
+    5 - Faço minhas necessidades
+    6 - Dou Descarga
+    7 - Destranco a porta
+    8 - Abro a porta até encostar na parede
+    9 - Fecho a porta
+    10 - Abro a torneira da pia 360*
+    11 - Lavo minhas mãos
+    12 - Fecho a torneira 360*
+    13 - Giro meu corpo 90*
+    13 - Seco minhas mãos na toalha
+    14 - Ando até o quarto
+9 - Se houver alguém no banheiro:
+    1 - Volto até o quarto
+    2 - Espero ouvir o barulho da porta abrindo
+    3 - Faço o passo 8.
