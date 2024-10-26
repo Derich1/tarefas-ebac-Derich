@@ -1,0 +1,10 @@
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/config/ValidatorConfig.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/usecase/CadastroCliente.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/exception/EntityNotFoundException.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/repository/IClienteRepository.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/config/OpenApiConfig.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/resources/ClienteResources.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/config/MongoConfig.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/usecase/BuscarCliente.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/ClienteServiceApplication.java
+/Users/derichrosario/Downloads/ClienteService/src/main/java/br/com/derich/domain/Cliente.java

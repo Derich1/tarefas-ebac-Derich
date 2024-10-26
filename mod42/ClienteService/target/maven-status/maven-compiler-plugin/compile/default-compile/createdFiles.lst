@@ -1,0 +1,11 @@
+br/com/derich/repository/IClienteRepository.class
+br/com/derich/resources/ClienteResources.class
+br/com/derich/usecase/BuscarCliente.class
+br/com/derich/config/OpenApiConfig.class
+br/com/derich/domain/Cliente.class
+br/com/derich/config/ValidatorConfig.class
+br/com/derich/usecase/CadastroCliente.class
+br/com/derich/exception/EntityNotFoundException.class
+br/com/derich/domain/Cliente$ClienteBuilder.class
+br/com/derich/ClienteServiceApplication.class
+br/com/derich/config/MongoConfig.class
